@@ -1,0 +1,14 @@
+[
+  {"query": "I write the same weekly status report every Friday and it always follows the same steps. Can you turn this workflow into a skill so I can reuse it?", "should_trigger": true},
+  {"query": "Udělej skill, který z přepisu schůzky vytáhne úkoly a rozdělí je podle jednotlivých lidí.", "should_trigger": true},
+  {"query": "Build a skill for reviewing supplier contracts against our standard checklist.", "should_trigger": true},
+  {"query": "My onboarding-checklist skill triggers too rarely and its output is thin. Can you improve this skill? The folder is ./skills/onboarding with SKILL.md and a references folder.", "should_trigger": true},
+  {"query": "Postav skill na přípravu podkladů pro obchodní schůzky. Nejdřív zjisti, jak to dělají profesionálové.", "should_trigger": true},
+  {"query": "I want to design a skill that helps parents simplify the rules of board games for small kids. Where do we start?", "should_trigger": true},
+  {"query": "Use the pdf skill to merge these two PDF files into one.", "should_trigger": false},
+  {"query": "Which of my installed skills should I use for editing a Word document?", "should_trigger": false},
+  {"query": "Write a Python script that renames all files in a folder by their creation date.", "should_trigger": false},
+  {"query": "Summarize this research paper on spaced repetition and tell me the three main findings.", "should_trigger": false},
+  {"query": "Napiš mi prompt, který mi pomůže psát příspěvky na LinkedIn v mém stylu.", "should_trigger": false},
+  {"query": "My script that syncs the skills folder to a backup drive throws a KeyError on line 42. Can you fix the bug?", "should_trigger": false}
+]
